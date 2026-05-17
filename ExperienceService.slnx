@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/ExperienceService.Api/ExperienceService.Api.csproj" />
+  <Project Path="src/ExperienceService.Core/ExperienceService.Core.csproj" />
+  <Project Path="src/ExperienceService.Infrastructure/ExperienceService.Infrastructure.csproj" />
+  <Project Path="tests/ExperienceService.UnitTests/ExperienceService.UnitTests.csproj" />
+  <Project Path="tests/ExperienceService.IntegrationTests/ExperienceService.IntegrationTests.csproj" />
+</Solution>
